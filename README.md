@@ -14,4 +14,17 @@ syntax =
           }
           }
 
+system.out.print(S.O.P)= It is use to print the output of an programm.
+scanner class = use to take an user input .
+
+
+RULE 
+
+commands
+
+1. SAVE =class.name.java
+2. compalition = JAVA.C  (java compliar)
+3. excutation = java class_name
+
+
 
