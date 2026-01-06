@@ -55,5 +55,19 @@ commands
 
 COMPLITATION AND EXACUTION PROCESS
 
+           JAVA 
+             |
+           JAVA.C  (COMPALITION)
+             |
+           CLASS
+             |
+           INTERPARTION  (JVM = JAVA VIRTUAL MACHINE)
+             |
+           CLASS LOADER 
+             |
+           BYTECODE VERIFICATION
+             |
+           OUTPUT
+
 
 
