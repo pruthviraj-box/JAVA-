@@ -70,4 +70,19 @@ COMPLITATION AND EXACUTION PROCESS
            OUTPUT
 
 
+<H1>  Data Type </H1>
+Data type specify the different size and value that can be stored in the varible
+
+Type =   1.premative  2.nonpremative
+
+preantive = numeric and non-numeric   
+
+numeric = int,byte ,short,long
+
+non-numeric = char,bollean
+
+non-premative = class,interface, aray,string.
+
+
+<h1>varible</h1>
 
